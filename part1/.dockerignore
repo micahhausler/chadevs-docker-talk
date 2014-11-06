@@ -1,0 +1,42 @@
+.git/*
+
+# Compiled python files
+*.pyc
+__pycache__/*
+
+# PID files
+*.pid
+
+# Vim files
+*.swp
+*.swo
+
+# Coverage files
+.coverage
+htmlcov/*
+
+# Setuptools distribution folder.
+/dist/*
+/build/*
+
+# Python egg metadata, regenerated from source files by setuptools.
+/*.egg-info
+/*.egg
+
+# Virtualenv
+env/*
+venv/*
+
+# OSX
+.DS_Store
+
+# Pycharm
+.idea/*
+
+# Sphinx Documentation artifacts
+docs/_build/*
+# Mkdocs compiled site
+site/*
+
+# IPython Notebook
+.ipynb_checkpoints/*
