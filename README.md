@@ -14,7 +14,7 @@
 	* Environment variables
 	* Volumes
 	* Ports
-* Getting Images - The [Docker hub](hub.docker.com)
+* Getting Images - The [Docker hub](https://registry.hub.docker.com)
 * Building images - The [Dockerfile](https://docs.docker.com/reference/builder/)
 
 To build the demo from this talk first install boot2docker, then run:
