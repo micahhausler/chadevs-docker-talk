@@ -2,6 +2,8 @@
 
 
 ## Part 1 [(11/6/2014)](http://www.meetup.com/chadevs/events/217194572/)
+[Slides](https://speakerdeck.com/micahhausler/chadevs-docker-talk-part-1)
+
 
 * Docker - what is it?
 	* High-level Concept
